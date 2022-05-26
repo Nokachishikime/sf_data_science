@@ -93,15 +93,6 @@ def score_game(some_predict) -> int:
     print(f"With function {some_predict.__name__} mean amount of tryes is: {score}")
     return score
 
-#print(f"Number of tryes: {wise_predict()}")
-
-#some_number = np.random.randint(1, 101)
-#print(f"Number of tryes: {exect_predict(some_number)} for number {some_number}")
-
-#score_game(random_predict)
-#score_game(wise_predict)
-#score_game(exect_predict)
-
 if __name__ == '__main__':
     score_game(random_predict)
     score_game(wise_predict)
