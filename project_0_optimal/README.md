@@ -33,9 +33,11 @@ Results evaluates on mean amount of tryes within 1000 cicles. Amount of tryes sc
 
 **Practice goal**
 
-Nice and clean code on Python writing practice  
-IDE working practice  
-GitHub working practice  
+Nice and clean code on Python writing practice
+
+IDE working practice
+
+GitHub working practice
 
 :arrow_up:[to list of contents](https://github.com/Nokachishikime/sf_data_science/tree/main/project_0/README.md#List-of-contents)
 
