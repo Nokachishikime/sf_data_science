@@ -1,3 +1,10 @@
+#Personal settings
+
+/P_10_Pandas_introducion
+/P_11_Pandas_basics
+/P_12_Pandas_middle
+/simple_practice
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
