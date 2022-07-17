@@ -4,6 +4,11 @@
 /P_11_Pandas_basics
 /P_12_Pandas_middle
 /simple_practice
+*.csv
+*.zip
+**/data
+*.html
+**/plotly
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
