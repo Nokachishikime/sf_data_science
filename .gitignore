@@ -12,6 +12,7 @@
 **/data
 *.html
 **/plotly
+Ноутбук-шаблон Project 1.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
