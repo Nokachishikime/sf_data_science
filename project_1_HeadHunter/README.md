@@ -90,12 +90,15 @@ Data cleaning
 
 Dataset acceptable for futher modeling.
 
+Final version of dataset is there:   
+https://drive.google.com/file/d/1Mq0ay0YnXBVO82BEOHZsiZf_p2IfTjx5/view?usp=sharing
+
 :arrow_up:[to list of contents](https://github.com/Nokachishikime/sf_data_science/tree/main/project_0/README.md#List-of-contents)
 
 ### Conclusions
 
-First, the data was processed, and on the basis of the initial information, attributes that were convenient in the future were constructed.
+First, the data was processed, and on the basis of the initial information, attributes that were conenient in the future were constructed.
 Secondly, an exploratory analysis was carried out, the results of which revealed suspicious entries in the table.
-And, finally, the data was cleaned from both service columns and suspicious records.
+And, finally, the data was cleaned from both service columns and suspicious records.   
 
 :arrow_up:[to list of contents](https://github.com/Nokachishikime/sf_data_science/tree/main/project_0/README.md#List-of-contents)
