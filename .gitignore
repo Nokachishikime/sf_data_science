@@ -10,7 +10,6 @@
 *.csv
 *.zip
 **/data
-*.html
 **/plotly
 Ноутбук-шаблон Project 1.ipynb
 

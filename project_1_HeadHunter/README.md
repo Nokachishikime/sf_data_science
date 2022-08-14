@@ -22,11 +22,20 @@ Skills practice on dataset containing information abouts candidates from HeadHun
 
 ### What case we are solwing?
 We need to make preparations on raw data for futher model creation.   
-All th anomalies, outlying data and duplicates should be detected and deleted.
+All the anomalies, outlying data and duplicates should be detected and deleted.
 Also some empty cells should be filled with sintetic data.
 
 **Terms:**
-Not specified.
+
+We could use only libriares given earlyer in the course:
+- pandas
+- numpy
+- matplotlib.pyplot
+- seaborn
+- plotly.express
+- re
+
+Also we should follow given roadmap from teamplate Jupiter Notebook.
 
 **Quality metrics**
 
@@ -42,14 +51,15 @@ GitHub working practice
 
 Data visualization practice
 
-Conclusion making practice
+Conclusions making practice
 
 :arrow_up:[to list of contents](https://github.com/Nokachishikime/sf_data_science/tree/main/project_0/README.md#List-of-contents)
 
 ### Shorts about data
 
 44744 records with raw information about candidates, with a gaps in cells.   
-   
+
+Each record has following structure:      
 0   Пол, возраст   
 1   ЗП   
 2   Ищет работу на должность:   
@@ -72,20 +82,20 @@ All the records are strings, except empty cells.
 Data structure investigation   
 Data transformation   
 Data dependences investigation   
-
+Data cleaning   
 
 :arrow_up:[to list of contents](https://github.com/Nokachishikime/sf_data_science/tree/main/project_0/README.md#List-of-contents)
 
 ### Results
 
-Dataset acceptible for futher modeling.
+Dataset acceptable for futher modeling.
 
 :arrow_up:[to list of contents](https://github.com/Nokachishikime/sf_data_science/tree/main/project_0/README.md#List-of-contents)
 
 ### Conclusions
 
-Not so hard, but prety usefull if we talk about expirience.
-Also we can make an obvious conclusion - it`s always better when you know what are you doing.
-According to our game - than less we randomize than better is outcome.
+First, the data was processed, and on the basis of the initial information, attributes that were convenient in the future were constructed.
+Secondly, an exploratory analysis was carried out, the results of which revealed suspicious entries in the table.
+And, finally, the data was cleaned from both service columns and suspicious records.
 
 :arrow_up:[to list of contents](https://github.com/Nokachishikime/sf_data_science/tree/main/project_0/README.md#List-of-contents)
