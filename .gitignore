@@ -6,7 +6,10 @@
 /P_13_Data_visualization
 /P_14_Data_preparation
 /P_15_OOP
+/P_16_Data_uploading
+/P_17_WEB_API_data
 /simple_practice
+/Attestation Python
 *.csv
 *.zip
 **/data
