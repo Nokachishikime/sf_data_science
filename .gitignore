@@ -1,4 +1,4 @@
-#Personal settings
+# Personal settings
 
 /P_10_Pandas_introducion
 /P_11_Pandas_basics
@@ -8,6 +8,14 @@
 /P_15_OOP
 /P_16_Data_uploading
 /P_17_WEB_API_data
+/EDA_1_Methods
+/EDA_2_Math_stat_in_EDA
+/EDA_3_FE
+/EDA_4_StatTest
+/EDA_5_AB_test
+/EDA-6_Comet
+/EDA-7_Kaggle
+/Diploma_adaptation
 /simple_practice
 /Attestation Python
 *.csv
@@ -15,6 +23,8 @@
 **/data
 **/plotly
 Ноутбук-шаблон Project 1.ipynb
+EDA_Project_3_model.ipynb
+/Project_2_NewData
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
