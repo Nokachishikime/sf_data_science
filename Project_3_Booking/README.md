@@ -27,7 +27,8 @@ We need to make preparations on raw data for futher model creation, including:.
 - emply cells filling;
 - feature selection; 
 - categorial features encoding;
-- feature scaling.
+- feature scaling;
+- feature significance analysys.
 
 **Terms:**
 
@@ -37,7 +38,7 @@ Also we should follow given roadmap from teamplate Jupiter Notebook called Basel
 
 **Quality metrics**
 
-MAPE - mean absolute persantage error, calculated after upplying model to test dataset.
+MAPE - mean absolute persantage error, calculated after applying model to test dataset.
 
 **Practice goal**
 
@@ -51,13 +52,13 @@ Data visualization practice
 
 Conclusions making practice
 
-Natural language processing, geocoding, feature encoding, feature scaling, featyre importance analysys
+Natural language processing, geocoding, feature encoding, feature scaling, featyre significance analysys
 
 Mashine learning basics practice.
 
 Keggle competition experience.
 
-:arrow_up:[to list of contents](https://github.com/Nokachishikime/sf_data_science/tree/main/project_0/README.md#List-of-contents)
+:arrow_up:[to list of contents](https://github.com/Nokachishikime/sf_data_science/tree/main/Project_3_Booking/README.md#List-of-contents)
 
 ### Shorts about data
 
@@ -84,7 +85,7 @@ Each record has following structure:
 
  There ara a bunch og non-numeric features, and some empty cells in dataset.
 
-:arrow_up:[to list of contents](https://github.com/Nokachishikime/sf_data_science/tree/main/project_0/README.md#List-of-contents)
+:arrow_up:[to list of contents](https://github.com/Nokachishikime/sf_data_science/tree/main/Project_3_Booking/README.md#List-of-contents)
 
 ### Project stages
 
@@ -97,7 +98,7 @@ Each record has following structure:
 6. Model learning
 7. Model evaluation
 
-:arrow_up:[to list of contents](https://github.com/Nokachishikime/sf_data_science/tree/main/project_0/README.md#List-of-contents)
+:arrow_up:[to list of contents](https://github.com/Nokachishikime/sf_data_science/tree/main/Project_3_Booking/README.md#List-of-contents)
 
 ### Results
 
@@ -105,10 +106,15 @@ Commit for Kaggle competition.
 
 ---
 
-:arrow_up:[to list of contents](https://github.com/Nokachishikime/sf_data_science/tree/main/project_0/README.md#List-of-contents)
+:arrow_up:[to list of contents](https://github.com/Nokachishikime/sf_data_science/tree/main/Project_3_Booking/README.md#List-of-contents)
 
 ### Conclusions
 
----
+Kaggle expirience gone wrong - I lost my progress with Notebook, and has had to go back to local solution.
+Also, not all the libs were available.
 
-:arrow_up:[to list of contents](https://github.com/Nokachishikime/sf_data_science/tree/main/project_0/README.md#List-of-contents)
+My score was not on the top. Probably i will make some impruvements later - i see some interesting but complex directions to mine more data from given information.
+
+But, at all, it was interesting and challenging task.
+
+:arrow_up:[to list of contents](https://github.com/Nokachishikime/sf_data_science/tree/main/Project_3_Booking/README.md#List-of-contents)

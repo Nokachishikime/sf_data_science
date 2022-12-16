@@ -18,9 +18,9 @@
 /Diploma_adaptation
 /simple_practice
 /Attestation Python
-*.csv
 *.zip
 **/data
+**/older_versions
 **/plotly
 Ноутбук-шаблон Project 1.ipynb
 EDA_Project_3_model.ipynb
