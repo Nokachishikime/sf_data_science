@@ -15,9 +15,14 @@
 /EDA_5_AB_test
 /EDA-6_Comet
 /EDA-7_Kaggle
+/ML_2_Linear_regression
+/ML_3_classification
+/ML_4_Cluster
+/ML_5_Validation
 /Diploma_adaptation
 /simple_practice
 /Attestation Python
+/Attestation EDA
 *.zip
 **/data
 **/older_versions
