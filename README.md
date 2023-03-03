@@ -10,3 +10,4 @@ From the [Skillfactory Data Scince course](https://skillfactory.ru/data-science-
 * [Project 1: HeadHunter](https://github.com/Nokachishikime/sf_data_science/tree/main/project_1_HeadHunter)
 * [Project 2:___](___)
 * [Project 3: Booking](https://github.com/Nokachishikime/sf_data_science/tree/main/Project_3_Booking)
+* [Project 4: Classification](https://github.com/Nokachishikime/sf_data_science/tree/main/Project_4_Classification)

@@ -2,23 +2,23 @@
 
 ## List of contents
 
-[1. Project description](https://github.com/Nokachishikime/sf_data_science/tree/main/Project_3_Booking/README.md#Project-description)
+[1. Project description](https://github.com/Nokachishikime/sf_data_science/tree/main/Project_4_Classification/README.md#Project-description)
 
-[2. What case we are solwing?](https://github.com/Nokachishikime/sf_data_science/tree/main/Project_3_Booking/README.md#What-case-we-are-solwing)
+[2. What case we are solwing?](https://github.com/Nokachishikime/sf_data_science/tree/main/Project_4_Classification/README.md#What-case-we-are-solwing)
 
-[3. Shorts about data](https://github.com/Nokachishikime/sf_data_science/tree/main/Project_3_Booking/README.md#Shorts-about-data)
+[3. Shorts about data](https://github.com/Nokachishikime/sf_data_science/tree/main/Project_4_Classification/README.md#Shorts-about-data)
 
-[4. Project stages](https://github.com/Nokachishikime/sf_data_science/tree/main/Project_3_Booking/README.md#Project-stages)
+[4. Project stages](https://github.com/Nokachishikime/sf_data_science/tree/main/Project_4_Classification/README.md#Project-stages)
 
-[5. Results](https://github.com/Nokachishikime/sf_data_science/tree/main/Project_3_Booking/README.md#Results)
+[5. Results](https://github.com/Nokachishikime/sf_data_science/tree/main/Project_4_Classification/README.md#Results)
 
-[6. Conclusions](https://github.com/Nokachishikime/sf_data_science/tree/main/Project_3_Booking/README.md#Conclusions)
+[6. Conclusions](https://github.com/Nokachishikime/sf_data_science/tree/main/Project_4_Classification/README.md#Conclusions)
 
 
 ### Project description
 Classification models creation for anonimous bank to predict marketing company results.
 
-:arrow_up:[to list of contents](https://github.com/Nokachishikime/sf_data_science/tree/main/Project_3_Booking/README.md#List-of-contents)
+:arrow_up:[to list of contents](https://github.com/Nokachishikime/sf_data_science/tree/main/Project_4_Classification/README.md#List-of-contents)
 
 ### What case we are solwing?
 We need to make preparations on raw data for futher model creation, including:.   
@@ -55,7 +55,7 @@ Natural language processing, geocoding, feature encoding, feature scaling, featy
 
 Mashine learning practice, in case of classification models.
 
-:arrow_up:[to list of contents](https://github.com/Nokachishikime/sf_data_science/tree/main/Project_3_Booking/README.md#List-of-contents)
+:arrow_up:[to list of contents](https://github.com/Nokachishikime/sf_data_science/tree/main/Project_4_Classification/README.md#List-of-contents)
 
 ### Shorts about data
 
@@ -83,7 +83,7 @@ Each record has following structure:
  There ara a bunch og non-numeric features, and some empty cells in dataset.
  Also there are outliers according to some features.
 
-:arrow_up:[to list of contents](https://github.com/Nokachishikime/sf_data_science/tree/main/Project_3_Booking/README.md#List-of-contents)
+:arrow_up:[to list of contents](https://github.com/Nokachishikime/sf_data_science/tree/main/Project_4_Classification/README.md#List-of-contents)
 
 ### Project stages
 
@@ -94,7 +94,7 @@ Each record has following structure:
 5. Classification task solving: logistic regression and decision trees
 6. Classification task solving: ensembles of models and forecasting
 
-:arrow_up:[to list of contents](https://github.com/Nokachishikime/sf_data_science/tree/main/Project_3_Booking/README.md#List-of-contents)
+:arrow_up:[to list of contents](https://github.com/Nokachishikime/sf_data_science/tree/main/Project_4_Classification/README.md#List-of-contents)
 
 ### Results
 
@@ -102,10 +102,10 @@ Succesfull optimisation and comclusions about futher bank strategy.
 
 ---
 
-:arrow_up:[to list of contents](https://github.com/Nokachishikime/sf_data_science/tree/main/Project_3_Booking/README.md#List-of-contents)
+:arrow_up:[to list of contents](https://github.com/Nokachishikime/sf_data_science/tree/main/Project_4_Classification/README.md#List-of-contents)
 
 ### Conclusions
 
 Not so hard case, but very usefull expirience.
 
-:arrow_up:[to list of contents](https://github.com/Nokachishikime/sf_data_science/tree/main/Project_3_Booking/README.md#List-of-contents)
+:arrow_up:[to list of contents](https://github.com/Nokachishikime/sf_data_science/tree/main/Project_4_Classification/README.md#List-of-contents)
