@@ -22,10 +22,13 @@
 /ML_6_Feature_selection
 /ML_7_Optimization
 /ML_8_Advanced_ML
+/Math_1_LA_part1
+/Math_1_LA_part2
 /Diploma_adaptation
 /simple_practice
 /Attestation Python
 /Attestation EDA
+/Attestation ML
 *.zip
 **/data
 **/older_versions
